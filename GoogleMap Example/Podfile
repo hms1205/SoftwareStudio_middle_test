@@ -1,0 +1,6 @@
+
+source 'https://github.com/CocoaPods/Specs.git'
+target 'PermissionExample' do
+  pod 'GoogleMaps', '4.2.0'
+  pod 'GooglePlaces', '4.2.0'
+end
