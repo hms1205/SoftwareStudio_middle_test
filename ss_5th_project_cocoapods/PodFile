@@ -1,0 +1,6 @@
+
+source 'https://github.com/CocoaPods/Specs.git'
+target 'ss_5th_project_cocoapods' do
+  pod 'GoogleMaps', '4.2.0'
+  pod 'GooglePlaces', '4.2.0'
+end
